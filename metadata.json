@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Lottery System Platform",
+  "description": "A comprehensive Thai lottery management and purchasing system, featuring client and admin portals, ticket sales limiting, payout settings, risk calculations, and real-time dashboard analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
